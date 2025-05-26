@@ -12,6 +12,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.9.0",
   "dependencies": {
+    "@google/genai": "^1.0.1",
     "@langchain/community": "^0.3.44",
     "@langchain/core": "^0.3.57",
     "@langchain/google-genai": "^0.2.9",

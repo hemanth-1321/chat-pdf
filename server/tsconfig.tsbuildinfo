@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/worker.ts","./src/routes/upload.ts"],"version":"5.8.3"}
+{"root":["./src/index.ts","./src/worker.ts","./src/routes/response.ts","./src/routes/upload.ts"],"version":"5.8.3"}
